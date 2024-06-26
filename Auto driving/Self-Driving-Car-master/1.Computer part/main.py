@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 import socket
+
 import send_data_pi 
 
 class VideoStreaming(object):
